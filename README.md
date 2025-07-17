@@ -1,4 +1,4 @@
-#29. Divide Two Integers
+29. Divide Two Integers
 
 Given two integers dividend and divisor, divide two integers without using multiplication, division, and mod operator.
 
@@ -26,7 +26,7 @@ Constraints:
 -231 <= dividend, divisor <= 231 - 1
 divisor != 0
 
-#29. Деление двух целых чисел
+29. Деление двух целых чисел
 
 Даны два целых числа dividend и divisor. Разделите два целых числа без использования умножения, деления и оператора остатка от деления.
 
