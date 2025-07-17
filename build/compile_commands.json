@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/Eduard/Programms/CPP/LeetCode/29. Divide Two Integers/build",
+  "command": "/usr/bin/c++  -I\"/home/Eduard/Programms/CPP/LeetCode/29. Divide Two Integers/src\" -g -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/pf-tests.dir/src/Solution.cpp.o -c \"/home/Eduard/Programms/CPP/LeetCode/29. Divide Two Integers/src/Solution.cpp\"",
+  "file": "/home/Eduard/Programms/CPP/LeetCode/29. Divide Two Integers/src/Solution.cpp",
+  "output": "CMakeFiles/pf-tests.dir/src/Solution.cpp.o"
+},
+{
+  "directory": "/home/Eduard/Programms/CPP/LeetCode/29. Divide Two Integers/build",
+  "command": "/usr/bin/c++  -I\"/home/Eduard/Programms/CPP/LeetCode/29. Divide Two Integers/src\" -g -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/pf-tests.dir/test/test-main.cpp.o -c \"/home/Eduard/Programms/CPP/LeetCode/29. Divide Two Integers/test/test-main.cpp\"",
+  "file": "/home/Eduard/Programms/CPP/LeetCode/29. Divide Two Integers/test/test-main.cpp",
+  "output": "CMakeFiles/pf-tests.dir/test/test-main.cpp.o"
+},
+{
+  "directory": "/home/Eduard/Programms/CPP/LeetCode/29. Divide Two Integers/build",
+  "command": "/usr/bin/c++  -I\"/home/Eduard/Programms/CPP/LeetCode/29. Divide Two Integers/src\" -g -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/pf-tests.dir/test/test-packet-filter.cpp.o -c \"/home/Eduard/Programms/CPP/LeetCode/29. Divide Two Integers/test/test-packet-filter.cpp\"",
+  "file": "/home/Eduard/Programms/CPP/LeetCode/29. Divide Two Integers/test/test-packet-filter.cpp",
+  "output": "CMakeFiles/pf-tests.dir/test/test-packet-filter.cpp.o"
+}
+]
