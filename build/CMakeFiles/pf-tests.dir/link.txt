@@ -1,1 +1,0 @@
-/usr/bin/c++ -g "CMakeFiles/pf-tests.dir/src/Solution.cpp.o" "CMakeFiles/pf-tests.dir/test/test-main.cpp.o" "CMakeFiles/pf-tests.dir/test/test-packet-filter.cpp.o" -o pf-tests  /usr/lib/x86_64-linux-gnu/libgtest.a 

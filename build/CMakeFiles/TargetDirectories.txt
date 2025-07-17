@@ -1,5 +1,0 @@
-/home/Eduard/Programms/CPP/LeetCode/29. Divide Two Integers/build/CMakeFiles/pf-tests.dir
-/home/Eduard/Programms/CPP/LeetCode/29. Divide Two Integers/build/CMakeFiles/package.dir
-/home/Eduard/Programms/CPP/LeetCode/29. Divide Two Integers/build/CMakeFiles/package_source.dir
-/home/Eduard/Programms/CPP/LeetCode/29. Divide Two Integers/build/CMakeFiles/edit_cache.dir
-/home/Eduard/Programms/CPP/LeetCode/29. Divide Two Integers/build/CMakeFiles/rebuild_cache.dir
